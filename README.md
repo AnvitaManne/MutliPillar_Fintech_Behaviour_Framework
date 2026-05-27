@@ -75,7 +75,7 @@ The project applies machine learning and time-series forecasting techniques to a
 
 ### Future expenditure forecast
 
-![P3 Forecast](p3_future_forecast.png)
+![P3 Forecast](p3_future_plot.png)
 
 ---
 
