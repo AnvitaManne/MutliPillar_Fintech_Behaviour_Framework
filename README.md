@@ -2,8 +2,6 @@
 
 A machine learning and forecasting framework for analyzing consumer expenditure behavior using multi-source financial datasets.
 
-This project combines transaction activity, demographic risk profiles, global spending behavior, and mobile cashflow records to study spending patterns, expenditure variability, and forecasting behavior in FinTech environments.
-
 ---
 
 ## Project Overview
