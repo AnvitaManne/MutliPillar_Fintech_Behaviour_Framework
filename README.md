@@ -45,7 +45,7 @@ The project applies machine learning and time-series forecasting techniques to a
 
 ## Model Performance
 
-### Overall Accuracy
+### Final Accuracy
 
 | Model | Accuracy |
 |---|---|
@@ -60,6 +60,10 @@ The project applies machine learning and time-series forecasting techniques to a
 | Income | 0.302 | 0.278 |
 | Lifestyle | 0.710 | 0.697 |
 | Other | 0.415 | 0.448 |
+
+### Effect of Population Context Features
+
+The inclusion of population-level financial context features improved the Random Forest classification accuracy from **63.32%** to **66.63%**, with improved performance observed across expenditure categories.
 
 ---
 
@@ -76,19 +80,6 @@ The project applies machine learning and time-series forecasting techniques to a
 ### Future expenditure forecast
 
 ![P3 Forecast](p3_future_plot.png)
-
----
-
-## Technologies Used
-
-- R
-- tidyverse
-- caret
-- randomForest
-- xgboost
-- forecast
-- plotly
-- lubridate
 
 ---
 
