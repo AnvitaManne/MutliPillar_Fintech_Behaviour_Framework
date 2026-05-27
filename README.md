@@ -2,10 +2,6 @@
 
 A machine learning and forecasting framework for analyzing consumer expenditure behavior using multi-source financial datasets.
 
----
-
-## Project Overview
-
 The framework integrates four financial data pillars:
 
 - Pillar 1 — Household transaction activity
