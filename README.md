@@ -26,7 +26,7 @@ The project applies machine learning and time-series forecasting techniques to a
 - XGBoost
 
 ### Forecasting
-- SARIMA time-series forecasting
+- SARIMA forecasting
 
 ### Feature Engineering
 - transaction intensity
