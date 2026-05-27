@@ -38,8 +38,8 @@ The project applies machine learning and time-series forecasting techniques to a
 - transaction intensity
 - spending variability
 - income impact estimation
-- time-based expenditure activity
-- intent-group categorization
+- time-based spending patterns
+- expenditure intent grouping
 
 ---
 
@@ -92,6 +92,12 @@ This work explores how multi-source financial transaction data can support:
 - overspending detection
 - forecasting of expenditure activity
 - personalized financial services
+
+---
+
+## Tools and Libraries
+
+R, tidyverse, caret, randomForest, xgboost, forecast, plotly, and lubridate
 
 ---
 
